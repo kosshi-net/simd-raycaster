@@ -3,7 +3,7 @@
 Voxel octree raycaster written using SIMD Intrinsics. All math is 
 fixed-point. Uses AVX2, casts 8 rays simultaniously.
 
-Raycaster code at src/game.c:343
+Raycaster code at [src/game.c:343](https://github.com/kosshishub/simd-raycaster/blob/master/src/game.c#L343)
 
 Made this purely to practice manually vectorizing complicated semi-branchy 
 algorithms, and to see just how slow this kind of raycasting is on a CPU, when 
