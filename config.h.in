@@ -1,0 +1,6 @@
+#define PROJECT_NAME	"${PROJECT_NAME}"
+#define VERSION_MAJOR	"${VERSION_MAJOR}"
+#define VERSION_MINOR 	"${VERSION_MINOR}"
+
+// Writes the font atlas as a PPM file to disc for debugging
+#define DEBUG_GFX_TEXT_WRITE_PPM @DEBUG_GFX_TEXT_WRITE_PPM@
